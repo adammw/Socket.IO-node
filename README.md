@@ -1,5 +1,7 @@
-Socket.IO Server: Sockets for the rest of us
+Fork of Socket.IO Server: Sockets for the rest of us
 ============================================
+
+This fork is attempting to support draft-ietf-hybi-thewebsocketprotocol-03 and binary data. USE AT YOUR OWN RISK, it is in no way complete.
 
 The `Socket.IO` server provides seamless support for a variety of transports intended for realtime communication.
 
